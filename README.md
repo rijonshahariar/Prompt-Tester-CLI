@@ -50,7 +50,7 @@ The `mocks.json` file should follow this format:
 ## Development
 1. Clone the repo:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/rijonshahariar/Prompt-Tester-CLI.git
    cd prompt-tester-cli
    ```
 2. Install dependencies:
