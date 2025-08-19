@@ -1,0 +1,50 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "response": "The capital of France is Paris."
+  },
+  {
+    "prompt": "Write a haiku about the moon.",
+    "response": "Glowing dreams take flight, shadows dance in lunar light, night’s embrace shines bright."
+  },
+  {
+    "prompt": "What is the meaning of life?",
+    "response": "The meaning of life is a philosophical question that has been debated for centuries, often interpreted as finding purpose and fulfillment."
+  },
+  {
+    "prompt": "How do you make a perfect cup of coffee?",
+    "response": "To make a perfect cup of coffee, use fresh, high-quality beans, grind them just before brewing, and use the right water temperature and brewing time."
+  },
+  {
+    "prompt": "What is the weather like today?",
+    "response": "The weather today is sunny with a high of 75°F and a light breeze."
+  },
+  {
+    "prompt": "Tell me a joke.",
+    "response": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+  },
+  {
+    "prompt": "What is the largest mammal?",
+    "response": "The largest mammal is the blue whale, which can grow up to 100 feet long and weigh as much as 200 tons."
+  },
+  {
+    "prompt": "What is the capital of Japan?",
+    "response": "The capital of Japan is Tokyo."
+  },
+  {
+    "prompt": "Who wrote 'To Kill a Mockingbird'?",
+    "response": "Harper Lee wrote 'To Kill a Mockingbird'."
+  },
+  {
+    "prompt": "What is the square root of 144?",
+    "response": "The square root of 144 is 12."
+  },
+  {
+    "prompt": "What is the chemical symbol for gold?",
+    "response": "The chemical symbol for gold is Au."
+  },
+  {
+    "prompt": "Explain the theory of relativity in simple terms.",
+    "response": "The theory of relativity, proposed by Albert Einstein, states that space and time are linked and that the laws of physics are the same for all observers, regardless of their relative motion."
+  }
+]
